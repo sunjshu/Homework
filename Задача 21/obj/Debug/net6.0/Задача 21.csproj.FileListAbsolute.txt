@@ -1,0 +1,15 @@
+D:\projects\Homework\Задача 21\obj\Debug\net6.0\Задача 21.csproj.AssemblyReference.cache
+D:\projects\Homework\Задача 21\obj\Debug\net6.0\Задача 21.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Homework\Задача 21\obj\Debug\net6.0\Задача 21.AssemblyInfoInputs.cache
+D:\projects\Homework\Задача 21\obj\Debug\net6.0\Задача 21.AssemblyInfo.cs
+D:\projects\Homework\Задача 21\obj\Debug\net6.0\Задача 21.csproj.CoreCompileInputs.cache
+D:\projects\Homework\Задача 21\bin\Debug\net6.0\Задача 21.exe
+D:\projects\Homework\Задача 21\bin\Debug\net6.0\Задача 21.deps.json
+D:\projects\Homework\Задача 21\bin\Debug\net6.0\Задача 21.runtimeconfig.json
+D:\projects\Homework\Задача 21\bin\Debug\net6.0\Задача 21.dll
+D:\projects\Homework\Задача 21\bin\Debug\net6.0\Задача 21.pdb
+D:\projects\Homework\Задача 21\obj\Debug\net6.0\Задача 21.dll
+D:\projects\Homework\Задача 21\obj\Debug\net6.0\refint\Задача 21.dll
+D:\projects\Homework\Задача 21\obj\Debug\net6.0\Задача 21.pdb
+D:\projects\Homework\Задача 21\obj\Debug\net6.0\Задача 21.genruntimeconfig.cache
+D:\projects\Homework\Задача 21\obj\Debug\net6.0\ref\Задача 21.dll

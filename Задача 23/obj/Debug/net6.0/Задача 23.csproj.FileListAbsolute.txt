@@ -1,0 +1,15 @@
+D:\projects\Homework\Задача 23\obj\Debug\net6.0\Задача 23.csproj.AssemblyReference.cache
+D:\projects\Homework\Задача 23\obj\Debug\net6.0\Задача 23.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Homework\Задача 23\obj\Debug\net6.0\Задача 23.AssemblyInfoInputs.cache
+D:\projects\Homework\Задача 23\obj\Debug\net6.0\Задача 23.AssemblyInfo.cs
+D:\projects\Homework\Задача 23\obj\Debug\net6.0\Задача 23.csproj.CoreCompileInputs.cache
+D:\projects\Homework\Задача 23\bin\Debug\net6.0\Задача 23.exe
+D:\projects\Homework\Задача 23\bin\Debug\net6.0\Задача 23.deps.json
+D:\projects\Homework\Задача 23\bin\Debug\net6.0\Задача 23.runtimeconfig.json
+D:\projects\Homework\Задача 23\bin\Debug\net6.0\Задача 23.dll
+D:\projects\Homework\Задача 23\bin\Debug\net6.0\Задача 23.pdb
+D:\projects\Homework\Задача 23\obj\Debug\net6.0\Задача 23.dll
+D:\projects\Homework\Задача 23\obj\Debug\net6.0\refint\Задача 23.dll
+D:\projects\Homework\Задача 23\obj\Debug\net6.0\Задача 23.pdb
+D:\projects\Homework\Задача 23\obj\Debug\net6.0\Задача 23.genruntimeconfig.cache
+D:\projects\Homework\Задача 23\obj\Debug\net6.0\ref\Задача 23.dll
